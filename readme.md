@@ -1,4 +1,7 @@
-Nama : Chelsa
-nim : F1B250003
+Nama : Chelsa dwi maulany
 
-alsan belajar progreming:supaya saya ngerti 
+nim : F1B250003
+fakultas : TEKNOLOGI INFORMASI
+
+
+alsan belajar progreming:supaya saya mengerti
